@@ -1,4 +1,3 @@
-
 # BMI Calculator 💪
 
 ## About App
